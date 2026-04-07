@@ -1,0 +1,7 @@
+{
+    "app_title": "Game Store",
+    "home_bottom_nav_bar_label" : "Home",
+    "application_bottom_nav_bar_label" : "Application",
+    "movie_bottom_nav_bar_label" : "Films",
+    "book_bottom_nav_bar_label" : "Book"
+}
